@@ -14,5 +14,5 @@ while(guessed == False):
         guessed = True
         print("im built different and im right wooo")
     else:
-        print('mannnnn')
+        print('rats n such')
         prev_guessses.append(guess)
