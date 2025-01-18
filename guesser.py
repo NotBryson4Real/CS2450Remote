@@ -10,7 +10,7 @@ while(guessed == False):
         continue
 
     user_res = input(f'are you {guess} years old? ')
-    if user_res == 'yes':
+    if user_res == 'yes'or user_res == 'Yes':
         guessed = True
         print("im built different and im right wooo")
     else:
