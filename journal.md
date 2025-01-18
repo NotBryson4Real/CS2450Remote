@@ -1,0 +1,1 @@
+Jan 17 2025: after battling github in both 2450 adn 3005 i actually feel like I have a pretty good grasp on it, im excited to work with flask in this class.
