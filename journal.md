@@ -6,3 +6,5 @@ Feb 04 2025: We worked on user stories today and planned how to tackel future pr
 Feb 11 2025: I have a better grasp on how to present effectively using presentations, and the presentation for our app looks pretty good so far
 Feb 20 2025: I've learned more about branches and how github works in general today
 Feb 25 2025: Today were considering the issues that come with the implementation stage of the project
+March 4 2025: Today we learned about ethics,ive learned to look at things a bit differently  especially when it comes to work adn what types of jobs i will accept or decline
+March 18 2025: Today we are going over software quality, its our responsibility when we develop software to ensure that it does what its supposed to and its not wasteful, since in 2022 the industry wasted trillions of dollars due to poor software quality
