@@ -8,3 +8,4 @@ Feb 20 2025: I've learned more about branches and how github works in general to
 Feb 25 2025: Today were considering the issues that come with the implementation stage of the project
 March 4 2025: Today we learned about ethics,ive learned to look at things a bit differently  especially when it comes to work adn what types of jobs i will accept or decline
 March 18 2025: Today we are going over software quality, its our responsibility when we develop software to ensure that it does what its supposed to and its not wasteful, since in 2022 the industry wasted trillions of dollars due to poor software quality
+March 20 2025: TOday were making unit tests and as a team were trying to figure out how to merge our branches effectively
